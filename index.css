@@ -1,0 +1,59 @@
+.videos {
+    display: flex;
+    margin-top: 5vh;
+    justify-content: space-around;
+    justify-content: space-between;
+    height: 50vh;
+}
+
+.body-white {
+    background-color: white;
+}
+
+.body-dark {
+    background-color: black;
+}
+
+.searchtexte {
+    width: 55vh;
+    min-height: 5vh;
+    max-height: 5vh;
+}
+
+.searchclik {
+    width: 10vh;
+    min-height: 5vh;
+    max-height: 5vh;
+    border-color: crimson;
+    background-color: white;
+}
+
+.white-texte {
+    color: white;
+}
+
+.dark-texte {
+    color: black;
+    border-color: white;
+}
+
+.darkmode {
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+}
+
+h5 {
+    color: black;
+}
+
+h5.darkmode {
+    color: white;
+}
+
+nav {
+    color: rgb(58, 53, 53);
+}
+
+nav.darkmode {
+    color: black;
+}
